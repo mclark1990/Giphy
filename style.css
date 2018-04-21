@@ -2,21 +2,45 @@
 body{
     background-image: url("images/curls.png")
 }
-.btn{
+/*buttons*/
+.btn-primary{
     margin:5px;
-    
+    font-family: 'Black Han Sans', sans-serif;
 }
+
+#user-submit{
+    font-family: 'Black Han Sans', sans-serif;
+    margin-top:5px;
+} 
+
+/*jumbotron heading*/
+h1{
+    font-family: 'Black Han Sans', sans-serif;
+}
+
 
 #gifs-div{
     height:100%;
-    
 }
 
+/*label for text input*/
 .control-label{
     font-size: 18px;
+    font-family: 'Black Han Sans', sans-serif;
 }
+
+/*image dive*/
 .img-div{
     display:inline-block;
-    border:1px solid whitesmoke;
-    margin:2px;
+    margin:4px;
+}
+/*ratings*/
+.rating{
+    color:whitesmoke;
+    text-align: center;
+    font-weight: bold;
+}
+/*gif image*/
+.gif{
+    border: 2px solid whitesmoke;
 }
