@@ -1,0 +1,22 @@
+
+body{
+    background-image: url("images/curls.png")
+}
+.btn{
+    margin:5px;
+    
+}
+
+#gifs-div{
+    height:100%;
+    
+}
+
+.control-label{
+    font-size: 18px;
+}
+.img-div{
+    display:inline-block;
+    border:1px solid whitesmoke;
+    margin:2px;
+}
